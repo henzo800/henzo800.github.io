@@ -4,3 +4,6 @@
 [submodule "assets/GitContent/barely-flappy-bird"]
 	path = assets/GitContent/barely-flappy-bird
 	url = https://github.com/henzo800/barely-flappy-bird.git
+[submodule "gitcontent/barely-flappy-bird"]
+	path = gitcontent/barely-flappy-bird
+	url = https://github.com/henzo800/barely-flappy-bird.git
