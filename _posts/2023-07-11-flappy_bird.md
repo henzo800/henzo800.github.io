@@ -2,6 +2,7 @@
 layout: post
 title:  "My poor Attempt at flappy bird"
 categories: [Coding]
+date: 2023-11-08
 ---
 
 Made a Flappy Bird clone ages ago. Might as well chuck it here as a test
