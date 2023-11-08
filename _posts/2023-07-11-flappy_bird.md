@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My poor Attempt at flappy bird"
+categories: "coding"
 ---
 
 Made a Flappy Bird clone ages ago. Might as well chuck it here as a test
