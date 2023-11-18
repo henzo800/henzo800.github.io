@@ -54,3 +54,4 @@ change vnc password myvncusername
 ```
 
 Further options are also available for mapping storage, secure vnc and usb passthrough
+(/assets/img/2023-11-17-macos-on-linux-using-docker/macos-vnc.png)
