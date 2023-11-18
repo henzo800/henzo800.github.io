@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "My poor Attempt at flappy bird"
-categories: [Coding]
+author: henzo
+categories: [Coding, JavaScript]
 date: 2023-11-08
 ---
 

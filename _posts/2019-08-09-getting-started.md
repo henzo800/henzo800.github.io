@@ -6,6 +6,7 @@ categories: [Example Blogging, Tutorial]
 tags: [getting started]
 pin: true
 img_path: 'https://chirpy-img.netlify.app/posts/20180809'
+published: false
 ---
 
 ## Prerequisites
