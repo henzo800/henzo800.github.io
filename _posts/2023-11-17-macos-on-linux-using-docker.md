@@ -11,7 +11,7 @@ Included here are example docker commands for starting a macos instance. This ca
 
 All commands are sourced from [Docker-OSX Github](https://github.com/sickcodes/Docker-OSX)
 
-### Running Headless VM for arbitraty commands.
+# Running Headless VM for arbitraty commands.
 ```shell
 docker run -it \
     --device /dev/kvm \
@@ -22,7 +22,7 @@ docker run -it \
     sickcodes/docker-osx:auto
 ```
 
-### Running Headless VM with specific command
+# Running Headless VM with specific command
 ```shell
 docker run -it \
     --device /dev/kvm \
@@ -34,7 +34,7 @@ docker run -it \
     sickcodes/docker-osx:auto
 ```
 
-### Running VM with VNC open
+# Running VM with VNC open
 ```shell
 docker run -i \
     --device /dev/kvm \
